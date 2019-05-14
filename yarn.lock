@@ -4127,9 +4127,9 @@ ember-router-generator@^1.2.3:
   dependencies:
     recast "^0.11.3"
 
-ember-simple-leaflet-maps@^0.0.2:
+"ember-simple-leaflet-maps@https://github.com/samuelherzog/ember-simple-leaflet-maps#fix/no-jquery":
   version "0.0.2"
-  resolved "https://registry.yarnpkg.com/ember-simple-leaflet-maps/-/ember-simple-leaflet-maps-0.0.2.tgz#25355d721c9e10e43486e088f28dc6c4adec26f8"
+  resolved "https://github.com/samuelherzog/ember-simple-leaflet-maps#39ab6890444a90f2aced13ed0765fc7772130490"
   dependencies:
     ember-cli-babel "^6.16.0"
 
